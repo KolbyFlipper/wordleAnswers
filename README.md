@@ -1,4 +1,4 @@
-# wordleAnswers
+# All Future Wordle Answers
 it's the wordle answers from now until the end of list of known wordle answers
 
 light  2022-1-31
