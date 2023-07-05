@@ -1,4 +1,8 @@
+
+
 # All Future Wordle Answers
+
+##Update: the dates are no longer accuate. As of 2023-7-5 the word was "venom" which was initially intended to be the 2023-5-19 answer, and i'm not going to fix it. It might be off by a set amount for removed words / added words, and NYT may have totally changed it. 
 it's the wordle answers from now until the end of list of known wordle answers
 
 light  2022-1-31
